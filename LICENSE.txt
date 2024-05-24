@@ -1,0 +1,51 @@
+License Agreement
+
+Copyright (c) 2024 Perpendicular AI
+
+ALL RIGHTS RESERVED
+
+This software, including all accompanying files, data, and documentation (the "Software"), is the property of Perpendicular AI or its affiliates ("Licensor").
+
+The Software is protected by copyright laws and international treaties. Unauthorized reproduction or distribution of the Software, or any portion thereof, may result in severe civil and criminal penalties, fines, and damages.
+
+PERMITTED USE
+
+The software is available for purchase by authorized parties only. For sale: Our proprietary software, Promptus, is available for purchase by authorized parties only. The software is licensed under this Licensing Agreement and is priced at as stated and/or outlined in the contract agreement. 
+By purchasing this software, you agree to use it solely for internal purposes and not to reproduce, distribute, or modify its contents without prior written permission from Perpendicular AI. Any unauthorized use is strictly prohibited.
+Please note that all sales are subject to the terms and conditions outlined in our licensing agreement, which can be found on our website or upon request.
+
+RESTRICTIONS ON TRANSFER
+
+You may not sell, transfer, sublicense, lease, lend, rent, or otherwise dispose of any portion of this project to anyone else without the prior written consent of Perpendicular AI.
+
+LIMITED WARRANTY AND DISCLAIMER OF LIABILITY
+
+The contents of this project are provided "AS IS" and "AS AVAILABLE", without warranty of any kind, express or implied. Perpendicular AI disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+
+In no event will Perpendicular AI be liable for any damages, including but not limited to direct, indirect, incidental, special, consequential, or punitive damages arising out of the use of this project, even if advised of the possibility of such damages.
+
+TERMS AND CONDITIONS
+
+The Software is provided "AS IS" and without warranty of any kind, express or implied.
+The Licensor disclaims all warranties, including but not limited to, fitness for a particular purpose, merchantability, title, and non-infringement.
+In no event shall the Licensor be liable for any damages, including but not limited to, direct, indirect, incidental, special, consequential, or punitive damages arising out of the use or inability to use the Software.
+
+GOVERNING LAW
+
+This license shall be governed by and construed in accordance with the laws of South Africa. Any disputes arising from this license will be resolved through binding arbitration in accordance with the rules of South African High Court and it's subsidiaries.
+
+ENTIRE AGREEMENT
+
+This license constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or understandings, whether written or oral.
+
+AMENDMENTS
+
+Perpendicular AI reserves the right to modify this license at any time without notice. Your continued use of the project after any changes will constitute your acceptance of such changes.
+
+By using this project, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this license.
+
+CONTACT INFORMATION
+
+If you have any questions or concerns regarding this Agreement, please contact Perpendicular AI at support@perpendicular.web.za or +2781 621 3575.
+
+END OF LICENSE
